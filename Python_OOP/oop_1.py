@@ -1,5 +1,5 @@
 """
-OOP in Python - Car Example 🚗⚡
+OOP in Python - Car Example
 
 This script demonstrates:
 1. Classes & Objects
